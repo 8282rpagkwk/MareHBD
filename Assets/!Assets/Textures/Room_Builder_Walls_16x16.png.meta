@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: 975e2b95a2185e7498f72cda8f8225f2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7a9ae6e4eeb9c45967e460cc041d0a
+      internalID: 1810283503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa3ce75f21532143827815c711c4afe
+      internalID: -1191265265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812bcabb659f1ce44bc4f1e65123ea89
+      internalID: -1866458449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aed4a8f1c7f3ed4eacceef257d73eb1
+      internalID: 1030508358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bf54a63401b864ba3bd506b4516f11
+      internalID: -1259230243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _gray_mid_mid
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92bfa3892b715a41893058b997643b9
+      internalID: -1124184001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _gray_right_mid
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74c6f42c9f3d214e83201aa67a4f3ba
+      internalID: -1699567041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fc6965c6ae7fc448df4d25a3c936d9
+      internalID: 1752349047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _gray_mid_top
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5719908944939341ab12c0537bcfd28
+      internalID: 683357525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _gray_right_top
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704ce51b3d511b945838b36156af4613
+      internalID: 1514536428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e6121a8bef4b842bec88d422f178db
+      internalID: 1637743944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809343692c8b6414781d80641386d991
+      internalID: -864146864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8194a35aed569a245abdac4d76d40301
+      internalID: 1064247400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c9648b01b8011488e53aab813ec8fc
+      internalID: 393517542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca668ad97c3c2a428d7d292de735972
+      internalID: -1921115713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_25
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ccaba7957f36248be86e10065f01e9
+      internalID: -1811832696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_26
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afc1a7a58fc12642a7de0194434e1ef
+      internalID: 1660178140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_27
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb792d689af49964681913f2511faa13
+      internalID: -839369580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77fc8b3b1658be449efd2097dfa387e
+      internalID: 517242302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_29
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a646dc524da4042bb53acb336cffa7
+      internalID: -909811939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa0ac33a9bdb324dbac3604b2f2772d
+      internalID: 531132473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a941abf5b7f4f4b80d95fbc5c5e139
+      internalID: 928463524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_40
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec828263a61f845438aca54d3e726b48
+      internalID: 611262016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371e5b007ba560443947de9a54563b0b
+      internalID: 1528980882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acf3a504d4cbc7448e382b4bd54c38a
+      internalID: -974091589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97053a851a03045418567dc8e019a744
+      internalID: 1930111423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _gray_mid_bot
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00120a70e90975548aaebebfac9b8ec0
+      internalID: -717809636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _gray_right_bot
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9db1c8a811a424daec3869b3fd0c58
+      internalID: 1659385230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_46
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4afa16024852b442b852d2e158a62ee
+      internalID: -177690661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_47
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ebb4b1383b8224fa21bb27404ee575
+      internalID: 1712279802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee238482932bfe48ab569834ce35795
+      internalID: 1455669725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_49
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172b05896c60ebf48b4293969943bc87
+      internalID: -1392014910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_50
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59403dfd6350dc4bae680bb609aa7b8
+      internalID: 84434088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_51
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f185ab14846914db84a4dcc5651423
+      internalID: 1524552862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39abd19365421c3498290b9c0975de96
+      internalID: 1016912964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_53
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 128
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfba830bae6a2bf4e8bd1ea9dce8e376
+      internalID: -948521720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_74
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2692092c99918024597b4224469e0b63
+      internalID: 732372366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _blue_top_mid
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79981b11d68935e4187d4642f7be98ea
+      internalID: 809061436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f415648d4c779f4b977a0eed00b1e7a
+      internalID: 651167288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_77
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d4d76a54018ac40b9255a0ed4c669e
+      internalID: -707069244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_78
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22323620c880996488aeb7d22536d250
+      internalID: -1181617940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _blue_mid_mid
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e603d2695488ea49859eb613852c832
+      internalID: 874466293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_80
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa31b68a52d77384e9e549a451ceb638
+      internalID: 1273554373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_81
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9801f5ff484d609439108cbd78deb6e2
+      internalID: 165082833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_82
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6fb268607c9c447b5f1ce6f5625bcb
+      internalID: -1640843097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_83
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 112
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc301dca161fd241b59a5a17eb06b6e
+      internalID: -1498015329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_100
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7e342aad1e30a4099488b4249e823f
+      internalID: 343244778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _blue_bot_mid
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5acd755b09a5104087955a79329baf9
+      internalID: 1834548411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d67fb49b06e4db4d810b8da6b788860
+      internalID: -1187232439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_103
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2095acacdd58fc499ec91fa72841fc3
+      internalID: -1551134129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_104
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d462bd0243a884c43b589067bb1c53d3
+      internalID: 350934457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_105
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3895a5f221902e946b29a9246d9ea6f7
+      internalID: -179487859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_106
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06b1c6a3d6811347b97d7795b380d70
+      internalID: -256967151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Walls_16x16_107
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 96
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5900122280d14841861a1e7bb66b923
+      internalID: -405932713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Room_Builder_Walls_16x16_76: 651167288
+      Room_Builder_Walls_16x16_116: -849952165
+      Room_Builder_Walls_16x16_29: -909811939
+      Room_Builder_Walls_16x16_149: 1337241628
+      Room_Builder_Walls_16x16_84: 368013605
+      Room_Builder_Walls_16x16_111: -1550282131
+      Room_Builder_Walls_16x16_160: -1872773896
+      Room_Builder_Walls_16x16_8: 164171243
+      _blue_mid_mid: 874466293
+      Room_Builder_Walls_16x16_26: 1660178140
+      Room_Builder_Walls_16x16_69: -1975368808
+      Room_Builder_Walls_16x16_109: 2063718722
+      Room_Builder_Walls_16x16_62: -872923141
+      _gray_mid_mid: -1124184001
+      Room_Builder_Walls_16x16_93: 309994335
+      Room_Builder_Walls_16x16_28: 517242302
+      Room_Builder_Walls_16x16_40: 611262016
+      Room_Builder_Walls_16x16_81: 165082833
+      Room_Builder_Walls_16x16_87: -406013186
+      Room_Builder_Walls_16x16_153: -28357193
+      Room_Builder_Walls_16x16_52: 1016912964
+      Room_Builder_Walls_16x16_98: 545001639
+      Room_Builder_Walls_16x16_104: 350934457
+      Room_Builder_Walls_16x16_118: -465633531
+      Room_Builder_Walls_16x16_63: 1219393157
+      Room_Builder_Walls_16x16_121: -734707390
+      Room_Builder_Walls_16x16_59: -1123944701
+      Room_Builder_Walls_16x16_113: 613932057
+      Room_Builder_Walls_16x16_123: -1130828227
+      Room_Builder_Walls_16x16_22: 1064247400
+      Room_Builder_Walls_16x16_50: 84434088
+      Room_Builder_Walls_16x16_128: 647971167
+      Room_Builder_Walls_16x16_133: 1117583447
+      Room_Builder_Walls_16x16_146: 1203024258
+      Room_Builder_Walls_16x16_47: 1712279802
+      Room_Builder_Walls_16x16_57: -1614841166
+      Room_Builder_Walls_16x16_117: -1232179380
+      Room_Builder_Walls_16x16_105: -179487859
+      Room_Builder_Walls_16x16_135: -115539097
+      Room_Builder_Walls_16x16_138: 307604561
+      Room_Builder_Walls_16x16_145: -1533530454
+      Room_Builder_Walls_16x16_43: 1930111423
+      Room_Builder_Walls_16x16_54: -119447170
+      Room_Builder_Walls_16x16_136: -876957398
+      Room_Builder_Walls_16x16_126: 2136935155
+      Room_Builder_Walls_16x16_119: 878768280
+      Room_Builder_Walls_16x16_127: -591016622
+      Room_Builder_Walls_16x16_2: 2135237551
+      Room_Builder_Walls_16x16_161: 1675332352
+      Room_Builder_Walls_16x16_23: 393517542
+      Room_Builder_Walls_16x16_30: -1483964649
+      Room_Builder_Walls_16x16_67: -1283591011
+      Room_Builder_Walls_16x16_35: 520862098
+      Room_Builder_Walls_16x16_68: -274991230
+      Room_Builder_Walls_16x16_144: -37699027
+      Room_Builder_Walls_16x16_49: -1392014910
+      Room_Builder_Walls_16x16_85: -1133898343
+      Room_Builder_Walls_16x16_125: 787995442
+      Room_Builder_Walls_16x16_91: 1669080245
+      _gray_right_bot: 1659385230
+      _gray_right_top: 1514536428
+      Room_Builder_Walls_16x16_115: 1988643622
+      Room_Builder_Walls_16x16_88: 1502486536
+      Room_Builder_Walls_16x16_132: 2101047955
+      Room_Builder_Walls_16x16_139: -241529773
+      Room_Builder_Walls_16x16_77: -707069244
+      Room_Builder_Walls_16x16_99: 838653699
+      Room_Builder_Walls_16x16_140: 488060742
+      Room_Builder_Walls_16x16_73: 1230364491
+      Room_Builder_Walls_16x16_42: -974091589
+      Room_Builder_Walls_16x16_100: 343244778
+      Room_Builder_Walls_16x16_3: -995453653
+      Room_Builder_Walls_16x16_4: 337219223
+      Room_Builder_Walls_16x16_83: -1498015329
+      Room_Builder_Walls_16x16_131: 947179886
+      Room_Builder_Walls_16x16_7: -1418509797
+      Room_Builder_Walls_16x16_32: -282979620
+      Room_Builder_Walls_16x16_89: 295675179
+      Room_Builder_Walls_16x16_37: -1908092536
+      Room_Builder_Walls_16x16_56: -1292908503
+      Room_Builder_Walls_16x16_61: -2097706379
+      Room_Builder_Walls_16x16_5: -1749978354
+      Room_Builder_Walls_16x16_38: 531132473
+      Room_Builder_Walls_16x16_10: 1810283503
+      _blue_top_mid: 809061436
+      Room_Builder_Walls_16x16_14: -1259230243
+      Room_Builder_Walls_16x16_74: 732372366
+      Room_Builder_Walls_16x16_92: -87822374
+      Room_Builder_Walls_16x16_147: 1766184448
+      Room_Builder_Walls_16x16_24: -1921115713
+      Room_Builder_Walls_16x16_155: -983494137
+      _gray_mid_top: 683357525
+      Room_Builder_Walls_16x16_82: -1640843097
+      Room_Builder_Walls_16x16_13: 1030508358
+      Room_Builder_Walls_16x16_78: -1181617940
+      Room_Builder_Walls_16x16_150: -772761934
+      Room_Builder_Walls_16x16_41: 1528980882
+      Room_Builder_Walls_16x16_159: 960852516
+      Room_Builder_Walls_16x16_36: -275504633
+      Room_Builder_Walls_16x16_96: -807815876
+      Room_Builder_Walls_16x16_46: -177690661
+      Room_Builder_Walls_16x16_80: 1273554373
+      Room_Builder_Walls_16x16_39: 928463524
+      Room_Builder_Walls_16x16_143: 1854608738
+      Room_Builder_Walls_16x16_27: -839369580
+      Room_Builder_Walls_16x16_142: 1935551984
+      Room_Builder_Walls_16x16_71: -1640925764
+      Room_Builder_Walls_16x16_112: 320689487
+      Room_Builder_Walls_16x16_120: 1065990669
+      Room_Builder_Walls_16x16_130: 1437546034
+      Room_Builder_Walls_16x16_148: -1073036371
+      Room_Builder_Walls_16x16_11: -1191265265
+      Room_Builder_Walls_16x16_0: 1387074348
+      Room_Builder_Walls_16x16_65: -97790693
+      Room_Builder_Walls_16x16_114: -369350672
+      Room_Builder_Walls_16x16_55: 1864847904
+      _gray_right_mid: -1699567041
+      Room_Builder_Walls_16x16_124: 1162219942
+      Room_Builder_Walls_16x16_97: 1986459053
+      Room_Builder_Walls_16x16_106: -256967151
+      Room_Builder_Walls_16x16_134: 718177301
+      Room_Builder_Walls_16x16_17: 1752349047
+      Room_Builder_Walls_16x16_21: -864146864
+      Room_Builder_Walls_16x16_31: 1111049578
+      Room_Builder_Walls_16x16_90: -443203994
+      Room_Builder_Walls_16x16_60: -514636347
+      Room_Builder_Walls_16x16_103: -1551134129
+      Room_Builder_Walls_16x16_51: 1524552862
+      Room_Builder_Walls_16x16_158: 900425049
+      _gray_mid_bot: -717809636
+      Room_Builder_Walls_16x16_151: 2010987902
+      Room_Builder_Walls_16x16_64: -209997234
+      Room_Builder_Walls_16x16_102: -1187232439
+      _blue_bot_mid: 1834548411
+      Room_Builder_Walls_16x16_66: -1233237238
+      Room_Builder_Walls_16x16_107: -405932713
+      Room_Builder_Walls_16x16_6: 1705842686
+      Room_Builder_Walls_16x16_72: 417232829
+      Room_Builder_Walls_16x16_156: -425705531
+      Room_Builder_Walls_16x16_157: -371835008
+      Room_Builder_Walls_16x16_9: -451462609
+      Room_Builder_Walls_16x16_141: 1567722907
+      Room_Builder_Walls_16x16_33: 1928274695
+      Room_Builder_Walls_16x16_110: -1512252527
+      Room_Builder_Walls_16x16_137: 139816572
+      Room_Builder_Walls_16x16_48: 1455669725
+      Room_Builder_Walls_16x16_154: 1384302560
+      Room_Builder_Walls_16x16_20: 1637743944
+      Room_Builder_Walls_16x16_58: 515126165
+      Room_Builder_Walls_16x16_86: 1724046221
+      Room_Builder_Walls_16x16_122: -353363
+      Room_Builder_Walls_16x16_95: 188349632
+      Room_Builder_Walls_16x16_108: -1050891686
+      Room_Builder_Walls_16x16_94: 877248369
+      Room_Builder_Walls_16x16_152: 2117077494
+      Room_Builder_Walls_16x16_70: -1428538389
+      Room_Builder_Walls_16x16_53: -948521720
+      Room_Builder_Walls_16x16_129: 221791569
+      Room_Builder_Walls_16x16_12: -1866458449
+      Room_Builder_Walls_16x16_25: -1811832696
+      Room_Builder_Walls_16x16_34: -240165198
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
